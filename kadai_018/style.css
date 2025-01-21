@@ -5,7 +5,6 @@
     margin: 20px auto;
     padding: 10px 0px 10px 0px;
     text-align: center;
-   
    }
 
 /* top-child装飾 */
@@ -58,13 +57,13 @@
     height: 300px;
     text-align: center;
     background-color: #87ceeb;
+    margin: 20px auto ;
 }
 
 #bottom-child01 {
     background-color: #e5dcf0;
     width: 400px;
     height: 100px;
-
 }
 #bottom-child02 {
     background-color: #e5dcf0;
