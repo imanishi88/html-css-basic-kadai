@@ -1,0 +1,83 @@
+/* id名top 装飾 */
+#top {
+    width: 800px;
+    background-color:#dcc9f4;
+    margin: 20px auto;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+   
+   }
+
+/* top-child装飾 */
+.top-child {
+    background-color:#ffd9df ;
+    display: inline-block;
+    width: 20%;
+
+/* ★sampleの左右幅広げ方 */
+}
+
+/* step4middle装飾 */
+#middle {
+    width: 800px;
+    height: 800px;
+    margin: 20px auto ;
+    padding: 20px 0px 20px 0px;
+    background-color: #ffd9df ;
+    position: relative;
+    
+}
+/* 青ブロック移動 */
+#middle-child01{
+    height: 200px;
+    width: 200px;
+    background-color: #87ceeb ;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+#middle-child02{
+    height: 200px;
+    width: 200px;
+    background-color: #87ceeb ;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+#middle-child03{
+    height: 200px;
+    width: 200px;
+    background-color: #87ceeb ;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+/* 一番下図形 */
+#bottom {
+    width: 800px;
+    height: 300px;
+    text-align: center;
+    background-color: #87ceeb;
+}
+
+#bottom-child01 {
+    background-color: #e5dcf0;
+    width: 400px;
+    height: 100px;
+
+}
+#bottom-child02 {
+    background-color: #e5dcf0;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: 200px;
+}
+#bottom-child03 {
+    background-color: #e5dcf0;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+
+}
